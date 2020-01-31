@@ -34,7 +34,7 @@
 
 <static-query>
 query AllProduct {
-  allProduct(filter: { category: { eq: "Climatizacion" } }, limit: 10) {
+  allProduct(filter: { category: { eq: "Climatización" } }, limit: 10) {
     totalCount
     edges {
       node {

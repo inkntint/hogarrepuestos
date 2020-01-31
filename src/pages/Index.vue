@@ -56,10 +56,9 @@ query {
 		data() {
 			return {
 				meta: {
-					title:
-						"Venta y talla de miles de rocas preciosas, semipreciosas y fósiles",
+					title: "Piezas de repuestos para electrodomésticos",
 					description:
-						"En Esmeralda3 vendemos y tallamos todo tipo de rocas preciosas y semipreciosas, con un inventario de más de 10.000 piezas entre meteoritos, raras y más"
+						"Encuentra miles de piezas de electrodomésticos para el hogar desde cocción, refrigeración, dispensadores, purificadores, climatización, lavado y más."
 				}
 			};
 		},

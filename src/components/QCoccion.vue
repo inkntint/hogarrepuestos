@@ -34,7 +34,7 @@
 
 <static-query>
 query AllProduct {
-  allProduct(filter: { category: { eq: "Coccion" } }, limit: 10) {
+  allProduct(filter: { category: { eq: "Cocción" } }, limit: 10) {
     totalCount
     edges {
       node {
