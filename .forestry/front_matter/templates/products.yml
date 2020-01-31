@@ -35,10 +35,13 @@ fields:
   config:
     required: true
     options:
-    - Piedras preciosas
-    - Semi preciosas
-    - Fósil
-    - Raras
+    - Lavado y secado de ropa
+    - Electrodomésticos
+    - Refrigeración
+    - Dispensadores y purificadores
+    - Climatización
+    - Cocción
+    - Artefactos del hogar
     - Otros
     source:
       type: simple
