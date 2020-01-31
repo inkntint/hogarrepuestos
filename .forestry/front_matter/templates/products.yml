@@ -84,3 +84,5 @@ fields:
   showOnly:
     field: sellable
     value: true
+pages:
+- content/products/base-soporte-nevera-estufa-patines-x2-pares.md
