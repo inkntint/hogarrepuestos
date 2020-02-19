@@ -1,5 +1,5 @@
 ---
-date: 2020-01-31T10:29:23-05:00
+date: 2020-01-31T15:29:23.000+00:00
 category: Dispensadores y purificadores
 available: true
 title: Dispensador De Agua Tipo Succión Ge Gxcbl01d
@@ -18,14 +18,14 @@ payu_purchase_link: ''
 ###### Caracteristicas:
 
 * Dispensador con garrafón oculto
-* Indicadores con luces LED 
-* 3 botones para opción de agua fría, al clima y caliente.
-* Sistema de seguridad en botón para agua caliente  
+* Indicadores con luces LED
+* 3 botones para la opción de agua fría, al clima y caliente.
+* Sistema de seguridad en botón para agua caliente   
   Apto para cualquier clima
 * Enfriamiento por compresor
 * Garantía 1 año
 
-###### Dimensiones: 
+###### Dimensiones:
 
 * Alto 104 cm
 * Ancho 31 cm
