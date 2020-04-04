@@ -11,7 +11,7 @@ images:
 - "/uploads/8B55AE5D-8B49-4ADD-A11D-DE19C456B80D.jpeg"
 - "/uploads/33528013-EDE0-4C0C-A90C-6DFE8764738B.jpeg"
 - "/uploads/7A95F7AD-7D2D-48F2-90C1-3C432C014938.jpeg"
-sellable: true
+sellable: false
 payu_purchase_link: ''
 
 ---
